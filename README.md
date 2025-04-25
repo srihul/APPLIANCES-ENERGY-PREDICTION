@@ -37,15 +37,14 @@ Batch: 2022–2026
 ## 📦 How to Run
 
 1. Clone this repository:
-   git clone https://github.com/YOUR_USERNAME/appliances-energy-prediction.git
-   cd appliances-energy-prediction
+   # git clone https://github.com/YOUR_USERNAME/appliances-energy-prediction.git
+   # cd appliances-energy-prediction
 2. Install the required dependencies:
     pip install -r requirements.txt
 3. Open the notebook:
     jupyter notebook Code.ipynb
-
 4.Follow instructions in the GUI to load your dataset and get predictions.
-References
+## References
 Xiao, X.R., Hu, S., Yan, D. (2012) – Electric Model of Household Appliances
 
 Jian, H.Y., Kong, W.J., Liu, H.X. (2013) – Behavioral Patterns on Energy Use
