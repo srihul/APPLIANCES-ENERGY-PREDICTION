@@ -37,7 +37,7 @@ Batch: 2022–2026
 ## 📦 How to Run
 
 1. Clone this repository:
-    git clone https://github.com/YOUR_USERNAME/appliances-energy-prediction.git
+    git clone https://github.com/srihul/appliances-energy-prediction.git
     cd appliances-energy-prediction
 2. Install the required dependencies:
     pip install -r requirements.txt
